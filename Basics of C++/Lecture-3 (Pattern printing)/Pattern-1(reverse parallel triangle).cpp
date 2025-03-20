@@ -16,10 +16,10 @@ int main(){
     }
 }
 
-op-
-Enter the number of rows:5
-    *
-   **
-  ***
- ****
-*****
+// op-
+// Enter the number of rows:5
+//     *
+//    **
+//   ***
+//  ****
+// *****
