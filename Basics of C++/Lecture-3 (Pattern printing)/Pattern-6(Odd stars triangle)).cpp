@@ -19,10 +19,10 @@ for(int i=1;i<=n;i++){
 }
 }
 
-op-
-Enter the number of rows5
-              *
-           *  *  *
-        *  *  *  *  *
-     *  *  *  *  *  *  *      
-  *  *  *  *  *  *  *  *  *   
+// op-
+// Enter the number of rows5
+//               *
+//            *  *  *
+//         *  *  *  *  *
+//      *  *  *  *  *  *  *      
+//   *  *  *  *  *  *  *  *  *   
