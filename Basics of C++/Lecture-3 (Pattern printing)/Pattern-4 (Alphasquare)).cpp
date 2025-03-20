@@ -12,10 +12,10 @@ int main(){
     }
 }
 
-op-
-Enter the number of rows:5
-A B C D E 
-A B C D E
-A B C D E
-A B C D E
-A B C D E
+// op-
+// Enter the number of rows:5
+// A B C D E 
+// A B C D E
+// A B C D E
+// A B C D E
+// A B C D E
